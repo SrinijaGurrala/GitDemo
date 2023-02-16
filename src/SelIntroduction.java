@@ -12,6 +12,7 @@ public class SelIntroduction {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("GIT demo");
+		System.out.println("GIT demo1");
 		driver.close();
 	}
 
